@@ -28,7 +28,7 @@ atividade-de-algoritmos
  30:
  
 
- T = eval(input("Digite um valor para N :"))
+ T = eval(input("Digite um valor para T :"))
   Tempo (T <= 50):
   Impressão (N)
   T= T + 1 
@@ -37,7 +37,7 @@ atividade-de-algoritmos
    
 
  T = int(input("Digite o numero 2 :"))
-  Tempo (N% 2 == 0) e N <= 100:
+  Tempo (N% 2 == 0) e N <= 100):
   Impressão (T)
   T = T + 2 
  
